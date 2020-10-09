@@ -1,0 +1,105 @@
+/*
+
+generic types
+*/
+
+h1{
+    font-size:2cm ;
+    color: rgb(114, 0, 85);
+    font-family: 'Sofia';
+    margin: 0;
+}
+
+
+h2{
+    color: rgba(185, 6, 132, 0.966);
+    font-family: 'Sofia';
+    margin: 0;
+}
+h3{
+    color: rgb(173, 0, 150);
+    font-family: 'Sofia';
+}
+h4{
+    color: rgb(65, 4, 50);
+    font-family: 'Sofia';
+}
+p{
+    font-family: 'Crafty Girls';
+    
+   width:900px; 
+    margin: 0,auto;
+}
+li{
+    font-family: 'Crafty Girls';
+}
+.a{
+    color: #aaa;
+}
+.btn {
+    font-family: 'Sofia';
+   background: rgb(214, 124, 169);
+   color: rgb(255, 255, 255);
+   padding: 8px;
+   border-radius: 4px;
+   text-decoration: none;
+   display: inline-block;
+   margin: 4px;
+}
+
+.btn:hover{
+    background: rgba(146, 11, 11, 80%);
+
+}
+
+
+img{
+        width: 300px;
+}
+
+body {
+    color: #343434;
+    font-size: 15px; 
+    margin:0;
+  }
+header{
+    background: oldlace;
+}
+.projects{
+    background: rgb(183, 243, 228);
+}
+
+
+
+section{
+    margin: 0;
+}
+
+.constent-wrap{
+    margin: auto;
+    width: 800px;;
+    padding: 60px;
+}
+
+
+.my-Suggestions{
+    background: lightyellow;
+}
+footer{
+    background: rgb(183, 243, 228);
+    clear: both;
+}
+
+img{
+    float: right;
+    margin: 10px;
+}
+
+.ingredients{
+
+    width: 400px;
+
+}
+.prepare{
+    width: 600px;
+}
